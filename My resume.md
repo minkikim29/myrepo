@@ -3,9 +3,11 @@
 <center>kyungido younginsi,Korea</center>  
 
 <center>010-3691-9935 </center>
- <center>minki.kim@dzsi.com</center>  
 
-<center>My [github](https://github.com/minkikim29/myrepo.git)</center>
+
+<center>minki.kim@dzsi.com</center>  
+
+
 
 
 ### JOB OBJECTIVE
