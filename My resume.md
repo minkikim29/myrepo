@@ -1,14 +1,8 @@
 # RESUME:)
-### <center>Min Ki Kim</center>
+### <center>Min Ki Kim</center>  
 <center>kyungido younginsi,Korea</center>  
-
-<center>010-3691-9935 </center>
-
-
-<center>minki.kim@dzsi.com</center>  
-
-
-
+<center>010-3691-9935 </center>  
+<center>minki.kim@dzsi.com</center>    
 
 ### JOB OBJECTIVE
 --------------------------------------
