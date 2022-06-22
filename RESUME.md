@@ -1,7 +1,11 @@
 # RESUME:)
 ### <center>Min Ki Kim</center>
 <center>kyungido younginsi,Korea</center>
+
+
 <center>010-3691-9935/minki.kim@dzsi.com</center>
+
+
 <center>My [github](https://github.com/minkikim29/myrepo.git)</center>
 
 
