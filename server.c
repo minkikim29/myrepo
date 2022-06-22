@@ -51,7 +51,7 @@ int main(int argc,char const* argv[])
     valread=read(new_socketm,buffer,1024);
     printf("%s\n",buffer);
     send(new_socketm,hello,strlen(hello),0);
-    printf("Hello message sent\n");
+    printf("Hello this is minkikim's server\n");
     return 0;
 }
 
