@@ -48,7 +48,7 @@ int dequeue()
 
 int main(void)
 {
-    int data,i;
+    int i;
     Initq();
 
     for(i=1; i<10; i++)
